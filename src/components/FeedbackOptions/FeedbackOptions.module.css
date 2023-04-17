@@ -1,0 +1,14 @@
+.btnList {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+.btn {
+  width: 60px;
+  height: 30px;
+  color: inherit;
+  border-color:  #36271f;
+  border-radius: 6px;
+}

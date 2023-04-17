@@ -1,0 +1,11 @@
+.item {
+  width: 100%;
+  margin: 0 auto 5px auto;
+  display: flex;
+  gap: 5px;
+  justify-content: center;
+}
+
+.bold {
+  font-weight: bold;
+}

@@ -1,0 +1,27 @@
+.app {
+  width: 230px;
+  height: auto;
+  margin: 0 auto;
+  padding: 40px;
+  text-align: center;
+  color: #36271f;
+  background-color: rgb(201 176 162);
+  border: 1px solid #d3bfb6;
+  border-radius: 10px;
+  box-shadow: 0px 0px 24px 0px rgba(66, 68, 90, 1);
+
+  @media screen and (min-width: 768px) {
+    width: 300px;
+  };
+
+  @media screen and (min-width: 1280px) {
+    width: 400px;
+  };
+}
+
+.title {
+  font-size: 28px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #36271f;
+  margin-bottom: 10px;
+}
